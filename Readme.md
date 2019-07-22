@@ -1,4 +1,3 @@
-# Singhs & Rajnikanth
 # SLACK-HACK
 
 
@@ -49,18 +48,14 @@ A product using SLACK and hosted in AWS and Heroku  to display unread messages o
 ## Usage
   Go to the SLACK-HACK webpage and signup using SLACK, and then enter the credentials for slack. If you don't have a slack account then you can signup into slack and then it will be re-directed into SLACK-HACK and you will be able to see your unread messages on the screen.
   
-  
-  
-  
-## Team members (with github username)
 
- ### Aditya Raj Singh - (@adityarajsingh)
- ### Harsh Kumar Singh - (@gotosleep6)
- ### Aman Kumar Singh - (@aman200896)
- ### Rajnikanth Kausalya - (@Rajnikanth11)
  
+ ## Technology Stack
  
- ## References
- 
-#### Stack Overflow
-#### github/axios
+- HTML & CSS
+- JavaScript
+- Node.js
+- Express
+- EJS
+- Slack API
+- AWS Hosting
