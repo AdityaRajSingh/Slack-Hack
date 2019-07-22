@@ -58,4 +58,4 @@ A product using SLACK and hosted in AWS and Heroku  to display unread messages o
 - Express
 - EJS
 - Slack API
-- AWS Hosting
+- Heroku
