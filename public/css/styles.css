@@ -1,0 +1,54 @@
+
+
+.channel{
+    text-align: center;
+    border:1px solid black;
+    width:35%;
+}
+
+
+
+#div
+{
+   
+   width: 50%;
+   height: auto;
+   
+}
+.wi
+{
+   width: 50%;
+   height: auto;
+}
+h1
+{
+   font-family: 'Courgette', cursive;
+   text-transform: capitalize;
+}
+p
+{
+   
+   font-family: 'Courgette', cursive;
+   font-size: 20px;
+}
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+#slack_channel2
+{
+   background-color:rgba(75, 236, 182, 0.5);
+   width: 50%;
+   height: auto;
+}
+
+
+.message{
+    
+    border-bottom:1px solid black;
+    width:35%;
+    background-color:rgba(225, 236, 75, 0.5);
+    
+    }
